@@ -9,4 +9,4 @@ Zdecydowałam się na kurs ze względu na chęć poszerzenia swojej wiedzy oraz 
 * Logowanie oraz wylogowanie z systemu, dodanie gracza, wybór np. województwa w formularzu dodawania gracza, podgląd listy graczy, edycja danych graczy, filtracja graczy, wyświetlenie wybranych kolumn z danymi, pobranie lub wydruk listy graczy, wybór języka, dodanie meczu, dodanie raportu
 * Aplikacja jest minimalistyczna oraz nie posiada kolorowej szaty graficznej, przez to moim zdaniem aplikacja nie przyciąga wzroku ani nie jest interesująca
 * Aplikacja jest intuicyjna. Dzięki małej ilości przycisków nie ma problemu z poruszaniem się po aplikacji, szata graficzna jest minimalistyczna co powoduje przykucie uwagi do funkcjonalności, które aplikacja posiada
-* błedy?
+* błedy??
